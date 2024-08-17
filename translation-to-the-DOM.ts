@@ -1,5 +1,5 @@
 // Import the translations from a JSON file
-import translateList from './your_file.json';
+import translateList from 'path/to/your_file.json';
 
 // Define a Translation class that handles the translation process
 class Translate {
